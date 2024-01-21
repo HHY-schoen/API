@@ -1,7 +1,8 @@
-## api
+## API
 
-### REST API
+### RestAPI
 build a python flask REST API and integrating that API with a flask SQL-Alchemy database.
+
 
 ### FastAPI
 adventage :
@@ -13,6 +14,6 @@ FastAPI will automatically covert the data into JSON format.
 
 -------------
 
-refer : https://www.youtube.com/watch?v=GMppyAPbLYk
-
-refer : https://www.youtube.com/watch?v=-ykeT6kk4bk
+refer
+- https://www.youtube.com/watch?v=GMppyAPbLYk
+- https://www.youtube.com/watch?v=-ykeT6kk4bk
