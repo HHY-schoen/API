@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+
+# type "uvicorn working:app --reload" in terminal
+# -> to constantly reload the web server every single time you make a change
+
+
+# add "/docs" after your server url
+# -> it will have automatically generated documentation for your API
+
