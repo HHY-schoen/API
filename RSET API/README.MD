@@ -1,1 +1,1 @@
-- Building a Flask REST API
+- Building a REST API then integrating with a flask SQL-Alchemy database.
